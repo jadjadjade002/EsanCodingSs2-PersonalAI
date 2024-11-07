@@ -14,7 +14,7 @@ Model of Learning Ecosystem Platform integrate with Coding & AI for Youth
 |        C#       |   Beginner   |
 |      python     | Intermediate |
 
-Another Skill
+# Another Skill
 |      Skill      |     Level    |
 |:---------------:|:------------:|
 | Adobe Photoshop |   Advanced   |
