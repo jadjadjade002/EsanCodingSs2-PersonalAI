@@ -3,6 +3,7 @@ Model of Learning Ecosystem Platform integrate with Coding & AI for Youth
 
 ## Who am I?🧐
 - **My name is**  Jadesadakorn Kamolvimutsarn
+- **You can call me**  Ping or Jade
 - **Age**: 15 years old
 - **School**: Debsirin School
 
