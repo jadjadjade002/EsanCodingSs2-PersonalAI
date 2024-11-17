@@ -25,7 +25,7 @@ Model of Learning Ecosystem Platform integrate with Coding & AI for Youth
 I have enjoyed programming in 2022, back when I was in Mattayom 2. I want to explore various fields in programming to help me identify the area I truly want to pursue. Recently, I’ve grown more interested in AI, and I see competitions as a great stepping stone for honing my skills and advancing in this field.
 
 ## Content❗
-| Class |                       Name                       | Workshop | Lecture |
+| Class |                       Name                       | Workshop | Certificate |
 |:-----:|:------------------------------------------------:|:--------:|:-------:|
 |   1   |  xPore: An AI-Powered App for Bioinformaticians  |     #    |    #    |
 |   2   |              Learning from Biosignal             |     #                                                                              |    #    |
