@@ -27,9 +27,12 @@ I have enjoyed programming in 2022, back when I was in Mattayom 2. I want to exp
 ## Content❗
 | Class |                       Name                       | Workshop | Certificate |
 |:-----:|:------------------------------------------------:|:--------:|:-------:|
-|   1   |  xPore: An AI-Powered App for Bioinformaticians  |     [GMM](GMM.ipynb)    |    #    |
+|   1   |  xPore: An AI-Powered App for Bioinformaticians  |     [GMM](GMM.ipynb)    |    ![uoxaN8FcpO-64b814f68c82d3e3](https://github.com/user-attachments/assets/76c3c81a-5efa-4b99-ab9e-dad1fc33fa44)    |
 |   2   |              Learning from Biosignal             |     #                                                                              |    #    |
-|   3   |         AI for detecting code plagiarism         |     [CodeCloneDetection](PMU_B_CodingAI_CodeCloneDetection_Jadesadakorn.ipynb)     |    #    |
+|   3   |         AI for detecting code plagiarism         |     [CodeCloneDetection](PMU_B_CodingAI_CodeCloneDetection_Jadesadakorn.ipynb)     |    ![SZgJhYa7ps-448efb5b81c1a105](https://github.com/user-attachments/assets/a3d9bed5-2989-443c-8c0c-e3eb2d0356fd)    |
 |   4   | Mental disorder detection from social media data |     #    |    #    |
 |   5   |    BiTNet: AI for diagnosing ultrasound image    |     #    |    #    |
-|   6   |            AI for arresting criminals            |     [ObjectDetection](Train_Yolov8_Object_Detection_on_Custom_Dataset_Jadesadakorn.ipynb)    |    #    |
+|   6   |            AI for arresting criminals            |     [ObjectDetection](Train_Yolov8_Object_Detection_on_Custom_Dataset_Jadesadakorn.ipynb)    |    ![7gPUTolmZr-e2aea536b670dc35](https://github.com/user-attachments/assets/accf5987-fc81-42e4-9b61-1df5291c323e)    |
+
+
+
