@@ -27,7 +27,7 @@ I have enjoyed programming in 2022, back when I was in Mattayom 2. I want to exp
 ## Content❗
 | Class |                       Name                       | Workshop | Certificate |
 |:-----:|:------------------------------------------------:|:--------:|:-------:|
-|   1   |  xPore: An AI-Powered App for Bioinformaticians  |     #    |    #    |
+|   1   |  xPore: An AI-Powered App for Bioinformaticians  |     [GMM](GMM.ipynb)    |    #    |
 |   2   |              Learning from Biosignal             |     #                                                                              |    #    |
 |   3   |         AI for detecting code plagiarism         |     [CodeCloneDetection](PMU_B_CodingAI_CodeCloneDetection_Jadesadakorn.ipynb)     |    #    |
 |   4   | Mental disorder detection from social media data |     #    |    #    |
