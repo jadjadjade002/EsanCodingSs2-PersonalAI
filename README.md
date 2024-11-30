@@ -2,22 +2,22 @@
 Model of Learning Ecosystem Platform integrate with Coding & AI for Youth
 
 ## Who am I?🧐
-- **My name is**  Jadesadakorn Kamolvimutsarn
-- **You can call me**  Ping or Jade
+- **My name is**:  Jadesadakorn Kamolvimutsarn
+- **You can call me**:  Ping or Jade
 - **Age**: 15 years old
 - **School**: Debsirin School
 
 ## 5 Words to know me💬
 
- - **Creative**  I enjoy coming up with new projects and solving problems using technology.
+ - **Creative**: I enjoy coming up with new projects and solving problems using technology.
   
- - **Curious**  I'm eager to learn in various fields like Machine Learning and app development.
+ - **Curious**: I'm eager to learn in various fields like Machine Learning and app development.
   
- - **Determined**  I dedicate myself to projects and always strive to improve my skills.
+ - **Determined**: I dedicate myself to projects and always strive to improve my skills.
   
- - **Goal-oriented**  I manage both my studies and activities effectively to achieve my goals.
+ - **Goal-oriented**: I manage both my studies and activities effectively to achieve my goals.
   
- - **Innovative**  I seek opportunities to apply my knowledge and skills to create useful solutions that improve lives.
+ - **Innovative**: I seek opportunities to apply my knowledge and skills to create useful solutions that improve lives.
 
 
   
