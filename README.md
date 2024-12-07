@@ -44,7 +44,7 @@ I have enjoyed programming in 2022, back when I was in Mattayom 2. I want to exp
 |   1   |  xPore: An AI-Powered App for Bioinformaticians  | [GMM](GMM.ipynb) |    [Certificate1](Certificate/uoxaN8FcpO-64b814f68c82d3e3.jpg)    |
 |   2   |              Learning from Biosignal             | [Biosignals](pmub-learning-biosignals) | [Certificate2](https://github.com/user-attachments/assets/e7128e95-6f58-4fc5-8a46-19e67983eb0c) |
 |   3   |         AI for detecting code plagiarism         | [CodeCloneDetection](PMU_B_CodingAI_CodeCloneDetection_Jadesadakorn.ipynb) | [Certificate3](Certificate/SZgJhYa7ps-448efb5b81c1a105.jpg) |
-|   4   | Mental disorder detection from social media data |     #    |    Certificate4    |
+|   4   | Mental disorder detection from social media data | [Social media.ipynb](Social_media.ipynb) |[Certificate4]|
 |   5   |    BiTNet: AI for diagnosing ultrasound image    |     #    |    Certificate5    |
 |   6   |            AI for arresting criminals            | [ObjectDetection](Train_Yolov8_Object_Detection_on_Custom_Dataset_Jadesadakorn.ipynb)    |  [Certificate6](Certificate/7gPUTolmZr-e2aea536b670dc35.jpg)  |
 
