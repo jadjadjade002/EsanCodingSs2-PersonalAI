@@ -29,7 +29,7 @@ Model of Learning Ecosystem Platform integrate with Coding & AI for Youth
 |        C#       |   Beginner   |
 |      python     | Intermediate |
 
-### Another Skill
+### Additional Skill
 |      Skill      |     Level    |
 |:---------------:|:------------:|
 | Adobe Photoshop |   Advanced   |
@@ -49,6 +49,6 @@ I have enjoyed programming in 2022, back when I was in Mattayom 2. I want to exp
 |   6   |            AI for arresting criminals            | [ObjectDetection](Train_Yolov8_Object_Detection_on_Custom_Dataset_Jadesadakorn.ipynb) |  [Certificate6](Certificate/06_Criminals.jpg)  |
 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8s8iRi5Och0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## My Presentation Video📽️
+[![Watch the video](https://img.youtube.com/vi/8s8iRi5Och0/sddefault.jpg)](https://youtu.be/8s8iRi5Och0)
 
